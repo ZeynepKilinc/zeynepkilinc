@@ -1,9 +1,9 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Zeynep Kılınç
+description: Academic website & Blog
 destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+url: https://zeynepkilinc.github.io
+baseurl: /zeynepkilinc.io
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -15,14 +15,10 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
 instagram: "#"
 twitter: "#"
-facebook: "#"
 youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+
 
 encoding: utf-8
 defaults:
