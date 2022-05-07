@@ -3,7 +3,7 @@ name: Zeynep Kılınç
 description: Academic website & Blog
 destination: jekyllbuild
 url: https://zeynepkilinc.github.io
-baseurl: #place folder name if site is served in subfolder
+baseurl: /zeynepkilinc.io
 permalink: /:zeynepkilincweb/
 paginate: 8
 paginate_path: /page/:num/
