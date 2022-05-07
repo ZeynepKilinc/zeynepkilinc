@@ -4,7 +4,7 @@ description: Academic website & Blog
 destination: jekyllbuild
 url: https://zeynepkilinc.github.io
 baseurl: /zeynepkilinc.io
-permalink: /:zeynepkilincweb/
+permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination
