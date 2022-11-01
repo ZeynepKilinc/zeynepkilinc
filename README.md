@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECDA00&width=435&lines=print+(%22Hello+World%2C+It's+Zeynep%22))](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECDA00&background=000000&width=435&lines=print(%22Hello+World%2C+It's+Zeynep%22))](https://git.io/typing-svg)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+Its+Zeynep;Computational%20Biologist...;Nature+and+Science+Enthusiast...;Science+Fiction+Geek+:).gif"/>
  
