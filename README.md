@@ -37,9 +37,6 @@
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)<br/>
 
   
-
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/ZeynepKilinc)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0f7d9a39bbee15a32d1182669b359dd1/raw/rb-instagram.json)](https://www.instagram.com/ZeynepKilinc/)<br>
 </div>  
 </details>
 
