@@ -32,7 +32,7 @@
 
 📜 All of my publications are available at [Google Scholar](https://scholar.google.com/citations?user=pTnTnlIAAAAJ&hl=en) & [Researchgate](https://www.researchgate.net/profile/Zeynep-Kilinc)
 
-🌐 For my research *journey* and my *story* you can visit my [webpage](https://scholar.google.com/citations?user=pTnTnlIAAAAJ&hl=en)
+🌐 For my research *journey* and my *story* you can visit my [webpage](https://zeynepkilinc.github.io/)
 <hr>
 
 
