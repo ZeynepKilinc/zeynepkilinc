@@ -20,7 +20,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeynep-kılınç-923898185/)](https://www.linkedin.com/in/zeynep-kılınç-923898185/) ![](https://komarev.com/ghpvc/?username=ZeynepKilinc)
 
 
-👨‍💻 Undergraduate researcher in computational biology @[Adebali Lab](https://adebalilab.org/)
+👩‍💻 Undergraduate researcher in computational biology @[Adebali Lab](https://adebalilab.org/)
 
 🎓 Double major in Computer Science and Moleculer Biology,Genetics & Bioengineering, Minor in Chemistry
 
